@@ -1,0 +1,6 @@
+HOSTS_FILE = C:\Windows\System32\drivers\etc\hosts
+PROJECTS_FOLDER = C:\vagrant\homestead\code
+REMOTE_PROJECTS_FOLDER = /home/vagrant/code
+ADDRESS = 192.168.10.10
+DOMAIN = homestead
+HOMESTEAD_YAML = C:\vagrant\homestead\homestead.yaml
